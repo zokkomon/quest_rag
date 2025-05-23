@@ -2,7 +2,7 @@
 
 A **Retrieval-Augmented Generation (RAG)** based chatbot for answering legal questions, powered by:
 
-- 🧠 **Infinity VectorDB** (by InfiniUM.ai) for fast vector search
+- 🧠 **Infinity VectorDB** (by Infiniflow) for fast vector search
 - 🧾 Gemmini or LLM backend for completions
 
 ---
