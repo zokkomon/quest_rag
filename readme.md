@@ -7,7 +7,7 @@ A **Retrieval-Augmented Generation (RAG)** based chatbot for answering legal que
 
 ---
 
-![Chatbot Demo](assets/chatbot_screenshot.png)
+![Chatbot Demo](assests/chatbot_screenshot.png)
 ---
 
 ## 📦 Features
